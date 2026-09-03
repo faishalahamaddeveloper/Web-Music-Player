@@ -21,7 +21,7 @@ const songs = [
     //     title: "My Song 4",
     //     artist: "Artist 4",
     //     duration: "4:30",
-    //     src: "songs/song4.mp3"
+    //     src: "",
     // }
 ];
 
